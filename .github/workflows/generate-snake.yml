@@ -25,7 +25,7 @@ jobs:
       - name: Push the content to GitHub
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           branch: main
           force: true
           directory: dist
