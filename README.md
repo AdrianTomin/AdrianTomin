@@ -12,10 +12,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AdrianTomin&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianTomin&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" alt="Bookmark Tabs" width="30" height="30" /> Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 
-### 🔝 Top Contributed Repo
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" height="30" /> Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AdrianTomin&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
